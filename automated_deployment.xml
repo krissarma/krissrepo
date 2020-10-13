@@ -1,6 +1,6 @@
 <projects>
 	<project>
 		<flowname>GetAuditLogs</flowname>
-		<environment>QA2</environment>
+		<environment>QA3</environment>
 	</project>
 </projects>

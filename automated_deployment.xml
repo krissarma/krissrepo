@@ -1,6 +1,6 @@
 <projects>
 	<project>
-		<flowname>get_accounts</flowname>
+		<flowname>GetAuditLogs</flowname>
 		<environment>QA2</environment>
 	</project>
 </projects>

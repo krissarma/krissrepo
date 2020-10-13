@@ -1,5 +1,6 @@
 <projects>
 	<project>
 		<flowname>flowname16</flowname>
+		<environment>QA</environment>
 	</project>
 </projects>

@@ -1,6 +1,6 @@
 <projects>
 	<project>
-		<flowname>flowname16</flowname>
+		<flowname>get_accounts</flowname>
 		<environment>QA2</environment>
 	</project>
 </projects>

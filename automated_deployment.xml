@@ -2,7 +2,7 @@
 	<project>
 		<flowname>Boomi_CICD_Test</flowname>
 		<environment>envProd</environment>
-		<packageVersion>3.2</packageVersion>
+		<packageVersion>3.3</packageVersion>
 		<extensionJson><![CDATA[
 		
 		{
@@ -14,17 +14,17 @@
          {
             "@type":"",
             "name":"Company Name",
-            "value":"myNewreference123456"
+            "value":"myNewreference"
          },
          {
             "@type":"",
             "name":"Company ID",
-            "value":"myurl123456"
+            "value":"myurl"
          },
          {
             "@type":"",
             "name":"Address",
-            "value":"201101123456"
+            "value":"2011011"
          }
       ]
    },

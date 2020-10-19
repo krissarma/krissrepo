@@ -1,6 +1,40 @@
 <projects>
 	<project>
-		<flowname>%%</flowname>
-		<environment>QA4</environment>
+		<flowname>Boomi_CICD_Test</flowname>
+		<environment>envProd</environment>
+		<packageVersion>3.2</packageVersion>
+		<extensionJson><![CDATA[
+		
+		{
+   "@type":"EnvironmentExtensions",
+   "connections":{},
+   "properties":{
+      "@type":"",
+      "property":[
+         {
+            "@type":"",
+            "name":"Company Name",
+            "value":"myNewreference123456"
+         },
+         {
+            "@type":"",
+            "name":"Company ID",
+            "value":"myurl123456"
+         },
+         {
+            "@type":"",
+            "name":"Address",
+            "value":"201101123456"
+         }
+      ]
+   },
+   "environmentId":"d12ecd49-c2e1-4cc6-adf0-bd77d966a12b",
+   "extensionGroupId":"",
+   "partial":"true",
+   "id":"d12ecd49-c2e1-4cc6-adf0-bd77d966a12b"
+}
+
+		]]>
+		</extensionJson>
 	</project>
 </projects>
